@@ -3970,3 +3970,36 @@ Make sure 'Ue4ASP_Character_C' has been compiled for  Set Gun
 [2022.03.02-14.08.09:495][ 71]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/BS_JogE73661C24E7603AFDDC063808E37E518.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Content/Animation/BS_Jog.uasset'
 [2022.03.02-14.08.09:509][ 71]AssetCheck: New page: Asset Save: BS_Jog
 [2022.03.02-14.08.09:510][ 71]LogContentValidation: Display: Validating BlendSpace /Game/Animation/BS_Jog.BS_Jog
+[2022.03.02-14.11.17:588][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/BS_Jog" FILE="../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Content/Animation/BS_Jog.uasset" SILENT=true
+[2022.03.02-14.11.17:593][275]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/BS_JogACC1BDF14CABD935B59232BF7A308D9A.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Content/Animation/BS_Jog.uasset'
+[2022.03.02-14.11.17:605][275]AssetCheck: New page: Asset Save: BS_Jog
+[2022.03.02-14.11.17:605][275]LogContentValidation: Display: Validating BlendSpace /Game/Animation/BS_Jog.BS_Jog
+[2022.03.02-14.12.24:186][297]LogSlate: Window 'Project Settings' being destroyed
+[2022.03.02-14.12.24:191][297]LogSlate: Window 'Project Settings' being destroyed
+[2022.03.02-14.13.15:526][137]Cmd: TRANSACTION UNDO
+[2022.03.02-14.13.15:526][137]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2022.03.02-14.13.15:644][137]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.02-14.13.15:645][137]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.02-14.17.06:878][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.03.02-14.17.06:899][ 54]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_World' took 0.040
+[2022.03.02-14.17.06:900][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/BS_Jog] ([2] browsable assets)...
+[2022.03.02-14.17.06:912][ 54]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Animation/BS_Jog.BS_Jog]
+[2022.03.02-14.17.06:932][ 54]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Animation/BS_Jog.BS_Jog]
+[2022.03.02-14.17.06:932][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/BS_Jog]
+[2022.03.02-14.17.06:932][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/BS_Jog" FILE="../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/Autosaves/Game/Animation/BS_Jog_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2022.03.02-14.17.06:939][ 54]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/BS_Jog_Auto7F4A69E9A42C557B096A76D91D5131F3B.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/Autosaves/Game/Animation/BS_Jog_Auto7.uasset'
+[2022.03.02-14.17.06:940][ 54]LogFileHelpers: Auto-saving content packages took 0.040
+[2022.03.02-14.17.15:525][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.03.02-14.17.15:543][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/BS_Jog" FILE="../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Content/Animation/BS_Jog.uasset" SILENT=true
+[2022.03.02-14.17.15:545][423]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/BS_Jog5AA2AF0D4E51941FEBA503B7CB9099A0.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Content/Animation/BS_Jog.uasset'
+[2022.03.02-14.17.15:556][423]AssetCheck: New page: Asset Save: BS_Jog
+[2022.03.02-14.17.15:556][423]LogContentValidation: Display: Validating BlendSpace /Game/Animation/BS_Jog.BS_Jog
+[2022.03.02-14.20.36:119][978]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.03.02-14.20.37:246][113]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.03.02-14.24.13:289][143]LogSlate: Took 0.000824 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.02-14.24.15:513][143]LogSlate: Window 'Save Asset As' being destroyed
+[2022.03.02-14.24.21:960][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.03.02-14.24.22:008][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/BS_Jog" FILE="../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Content/Animation/BS_Jog.uasset" SILENT=true
+[2022.03.02-14.24.22:015][871]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/BS_JogDE86DB014C0F17E63DB725A53220C662.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Content/Animation/BS_Jog.uasset'
+[2022.03.02-14.24.22:027][871]AssetCheck: New page: Asset Save: BS_Jog
+[2022.03.02-14.24.22:027][871]LogContentValidation: Display: Validating BlendSpace /Game/Animation/BS_Jog.BS_Jog
