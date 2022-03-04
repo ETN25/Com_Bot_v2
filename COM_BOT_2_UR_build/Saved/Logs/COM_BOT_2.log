@@ -6333,3 +6333,70 @@ Make sure 'BP_Ennemy2_C' has been compiled for  Get SK_Mannequin
 [2022.03.04-13.42.37:546][827]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/BP_Laser7B2FBDC44738A3E13CFFD3BA9A8EF9C9.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Content/BluePrint/BP_Laser.uasset'
 [2022.03.04-13.42.37:559][827]AssetCheck: New page: Asset Save: BP_Laser
 [2022.03.04-13.42.37:559][827]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/BP_Laser.BP_Laser
+[2022.03.04-13.52.02:679][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.03.04-13.52.02:680][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LV_1" FILE="../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/Autosaves/Game/Maps/LV_1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.03.04-13.52.02:694][641]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/LV_1_Auto35594FC42465AEABE13B317BD9B7CFB05.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/Autosaves/Game/Maps/LV_1_Auto3.umap'
+[2022.03.04-13.52.02:694][641]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LV_1' took 0.035
+[2022.03.04-13.52.02:694][641]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2022.03.04-13.52.02:695][641]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetsPackages/1stPerson/FPWeapon/Materials/M_FPGun] ([1] browsable assets)...
+[2022.03.04-13.52.02:708][641]OBJ SavePackage:     Rendered thumbnail for [Material /Game/AssetsPackages/1stPerson/FPWeapon/Materials/M_FPGun.M_FPGun]
+[2022.03.04-13.52.02:708][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetsPackages/1stPerson/FPWeapon/Materials/M_FPGun]
+[2022.03.04-13.52.02:717][641]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/M_FPGun_Auto32CC7F0EC44BE02CAF6AD08AB3B327662.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/Autosaves/Game/AssetsPackages/1stPerson/FPWeapon/Materials/M_FPGun_Auto3.uasset'
+[2022.03.04-13.52.02:717][641]LogFileHelpers: Auto-saving content packages took 0.023
+[2022.03.04-14.24.55:791][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.03.04-14.24.55:792][680]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LV_1' took 0.022
+[2022.03.04-14.24.55:792][680]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/BP_Laser] ([2] browsable assets)...
+[2022.03.04-14.24.55:811][680]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Laser.BP_Laser]
+[2022.03.04-14.24.55:811][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Laser]
+[2022.03.04-14.24.55:811][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Laser" FILE="../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/Autosaves/Game/BluePrint/BP_Laser_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.03.04-14.24.55:818][680]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/BP_Laser_Auto415E1DAEB471A341645F099B2F800C88D.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/Autosaves/Game/BluePrint/BP_Laser_Auto4.uasset'
+[2022.03.04-14.24.55:819][680]LogFileHelpers: Auto-saving content packages took 0.026
+[2022.03.04-14.28.14:400][888]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2022.03.04-14.28.14:411][888]LogContentBrowser: Creating deferred item: NewInterface
+[2022.03.04-14.28.20:598][996]LogContentBrowser: Attempting asset rename: NewInterface -> NewInterface
+[2022.03.04-14.28.20:601][996]LogContentBrowser: End creating deferred item NewInterface
+[2022.03.04-14.28.55:619][171]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Damageable
+[2022.03.04-14.28.55:634][171]LogMetaData: Removing '/Game/BluePrint/BPI_Damageable.SKEL_BPI_Damageable_C' ref from Metadata '/Game/BluePrint/NewInterface.PackageMetaData'
+[2022.03.04-14.28.55:634][171]LogMetaData: Removing '/Game/BluePrint/BPI_Damageable.BPI_Damageable_C' ref from Metadata '/Game/BluePrint/NewInterface.PackageMetaData'
+[2022.03.04-14.28.55:650][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BPI_Damageable" FILE="../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Content/BluePrint/BPI_Damageable.uasset" SILENT=true
+[2022.03.04-14.28.55:651][171]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/BPI_Damageable878FD2B34E8479E492618EA67715430E.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Content/BluePrint/BPI_Damageable.uasset'
+[2022.03.04-14.28.55:804][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.03.04-14.28.55:830][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.03.04-14.28.55:849][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.03.04-14.28.55:884][171]AssetCheck: New page: Asset Save: BPI_Damageable
+[2022.03.04-14.28.55:884][171]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/BPI_Damageable.BPI_Damageable
+[2022.03.04-14.28.58:087][425]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BPI_Damageable.BPI_Damageable
+[2022.03.04-14.29.20:336][118]LogSlate: Took 0.179253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.03.04-14.29.39:548][373]BlueprintLog: New page: Compile BPI_Damageable
+[2022.03.04-14.29.39:570][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.03.04-14.31.04:746][548]BlueprintLog: New page: Compile BP_Laser
+[2022.03.04-14.31.04:781][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.03.04-14.31.05:531][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Laser" FILE="../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Content/BluePrint/BP_Laser.uasset" SILENT=true
+[2022.03.04-14.31.05:538][629]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/BP_LaserF28F2267469F0B6387F3628450C0D634.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Content/BluePrint/BP_Laser.uasset'
+[2022.03.04-14.31.05:548][629]AssetCheck: New page: Asset Save: BP_Laser
+[2022.03.04-14.31.05:548][629]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/BP_Laser.BP_Laser
+[2022.03.04-14.31.30:473][307]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.04-14.31.30:491][307]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.04-14.33.42:493][165]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-14.33.42:493][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-14.33.45:085][462]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.04-14.33.45:085][462]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-14.33.45:085][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-14.33.48:074][803]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_Hero.BP_Hero
+[2022.03.04-14.34.56:336][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.03.04-14.34.56:339][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LV_1" FILE="../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/Autosaves/Game/Maps/LV_1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.03.04-14.34.56:352][479]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/LV_1_Auto52738243146CD6B38D1AF2B80382EB1BE.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/Autosaves/Game/Maps/LV_1_Auto5.umap'
+[2022.03.04-14.34.56:353][479]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LV_1' took 0.040
+[2022.03.04-14.34.56:353][479]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2022.03.04-14.34.56:353][479]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Ennemy] ([2] browsable assets)...
+[2022.03.04-14.34.56:368][479]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Ennemy.BP_Ennemy]
+[2022.03.04-14.34.56:368][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Ennemy]
+[2022.03.04-14.34.56:383][479]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/BP_Ennemy_Auto5B6F304FE4CE7DF0F138F028F020B91EF.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/Autosaves/Game/BluePrint/BP_Ennemy_Auto5.uasset'
+[2022.03.04-14.34.56:383][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BPI_Damageable] ([2] browsable assets)...
+[2022.03.04-14.34.56:383][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BPI_Damageable]
+[2022.03.04-14.34.56:385][479]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/BPI_Damageable_Auto5170CEB6348C6A876625350B4A2F457B6.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/Autosaves/Game/BluePrint/BPI_Damageable_Auto5.uasset'
+[2022.03.04-14.34.56:385][479]LogFileHelpers: Auto-saving content packages took 0.032
+[2022.03.04-14.36.43:151][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Ennemy" FILE="../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Content/BluePrint/BP_Ennemy.uasset" SILENT=true
+[2022.03.04-14.36.43:162][214]LogSavePackage: Moving '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Saved/BP_Ennemy9245414A443BCF780EDD1CA4C39FBA99.tmp' to '../../../../../GitHub/COMBOT/Com_Bot_v2/COM_BOT_2_UR_build/Content/BluePrint/BP_Ennemy.uasset'
+[2022.03.04-14.36.43:177][214]AssetCheck: New page: Asset Save: BP_Ennemy
+[2022.03.04-14.36.43:178][214]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/BP_Ennemy.BP_Ennemy
